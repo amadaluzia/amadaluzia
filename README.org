@@ -1,4 +1,4 @@
-#+title: No actual repos will be on here, instead go to [[https://codeberg.org/amadaluzia][my Codeberg]].
+#+title: No actual repos will be on here, instead go to [[https://codeberg.org/amadaluzia][my Codeberg]] or [[https://codeberg.org/amadaluzia][my Copeberg]].
 
 * What happened to amadalusia?
 Amadalusia is irrecoverable because I
