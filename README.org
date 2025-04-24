@@ -17,7 +17,10 @@ whatever GitHub repo I like, such being
 nixpkgs and wallpkgs.
 
 * Where will you find me?
-- Matrix: =@amadaluzia:tchncs.de= (You should always use this.)
-- Discord: =@amadaluzia= (not reccomended but I am reachable there.)
-- Mastodon (inactive): =@artur@glasgow.social= (this happened to be the only mastodon server in the uk, i am not scottish though.)
-- You can find my email above.
+
+
+- Email: =amad@atl.tools= (Always use this)
+- Matrix: =@amadaluzia:tchncs.de= (Use this if you prefer IM)
+- Signal: =@amadaluzia.711=
+- XMPP: =amadaluzia@xmpp.earth=
+- Discord: =@amadaluzia=
