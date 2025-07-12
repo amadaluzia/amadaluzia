@@ -26,6 +26,6 @@ being nixpkgs and wallpkgs.
 
 # Where do I host my code?
 
-- [GitLab: I use this for larger-purpose projects](mailto:amad@atl.tools)
+- [GitLab: I use this for larger-purpose projects](https://gitlab.com/amadaluzia)
 - [SourceHut: Small-purpose projects](https://git.sr.ht/~amadaluzia)
 - [Codeberg: Older projects](https://copeberg.org/amadaluzia)
