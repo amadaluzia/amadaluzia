@@ -16,16 +16,19 @@ recover them.
 This houses all my contributions to whatever GitHub repo I like, such
 being nixpkgs and wallpkgs.
 
-# Where will you find me?
+# Where could you find me?
 
-- Email: [amad@atl.tools](mailto:amad@atl.tools) (Always use this)
-- Matrix: [@amadaluzia:tchncs.de](https://matrix.to/#/@amadaluzia:tchncs.de) (Use this if you prefer IM)
-- Signal: [@amadaluzia.711](https://signal.me/#eu/YyiV-wXmcsx22C1QKe5Tx-xvAzp3FOW3RumzO7NwNzxZemEDl5RNdbUkKIPSlHIG)
-- XMPP: [amadaluzia@xmpp.earth](xmpp:amadaluzia@xmpp.earth?omemo-sid-1000381122=41d12ffccfbb0afb37f2c34563d9a6c01e58637c011bdb5ce17cb0ea07cb680f)
-- Discord: [@amadaluzia](https://discord.com/users/1208493560480010301)
+| Service | Username |
+|---|---|
+| Libera | amadaluzia |
+| XMPP | [amadaluzia@xmpp.earth](https://xmpp.link/#amadaluzia@xmpp.earth) |
+| Discord | [amadaluzia](https://discord.com/users/1208493560480010301) |
+| Revolt | amadaluzia#3242 |
+| Matrix (Alt) | [@amadaluzia:pub.solar](https://matrix.to/#/@amadaluzia:pub.solar) |
+| Email (Alt) | [amadaluzia@tutanota.com](mailto:amadaluzia@tutanota.com) |
 
 # Where do I host my code?
 
 - [GitLab: I use this for larger-purpose projects](https://gitlab.com/amadaluzia)
 - [SourceHut: Small-purpose projects](https://git.sr.ht/~amadaluzia)
-- [Codeberg: Older projects](https://copeberg.org/amadaluzia)
+- [Codeberg: Older projects](https://codeberg.org/amadaluzia)
