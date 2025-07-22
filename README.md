@@ -18,6 +18,9 @@ being nixpkgs and wallpkgs.
 
 # Where could you find me?
 
+For pretty much all situations, use [Email](mailto:amad@atl.tools) or [Matrix](https://matrix.to/#/@amadaluzia:tchncs.de). If you hate using
+both of those platforms then use the following:
+
 | Service | Username |
 |---|---|
 | Libera | amadaluzia |
