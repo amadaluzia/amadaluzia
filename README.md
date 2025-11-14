@@ -1,37 +1,15 @@
-# No actual repos will be on here, instead go to any of the following [git platforms](#where-do-i-host-my-code).
+# THIS IS NOT FOR PERSONAL PROJECTS, ONLY FOR CONTRIBUTIONS {#not-personal}
 
-## What happened to amadalusia?
+I do not trust GitHub as a good place for storing my *personal*
+projects, especially with GitHub Copilot's history of not respecting
+copyleft licenses, and the generally shady practices displayed across
+multiple articles regarding GitHub. If you want to look at my projects,
+or dotfiles or if you want to contact me: please see my [website].
 
-Amadalusia is irrecoverable because I no longer have the 2FA stuff for
-it. It's a silly mistake that happened while installing AOSP on my
-Pixel. My discord, matrix and codeberg are fine because I remembered to
-recover them.
+[![Please don't upload to GitHub](https://nogithub.codeberg.page/badge-sq.svg)](https://nogithub.codeberg.page)
 
-# Why no GitHub?
+I will still use GitHub, as I tend to use GHA for certain tasks, as well
+as I need it for collaborating with other projects anyway. This applies
+with every source sharing platform I am in.
 
-[![Please do not use GitHub for personal projects.](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page)
-
-# What is this page then?
-
-This houses all my contributions to whatever GitHub repo I like, such
-being nixpkgs and wallpkgs.
-
-# Where could you find me?
-
-For pretty much all situations, use [Email](mailto:amadaluzia@disroot.org) or [Matrix](https://matrix.to/#/@amadaluzia:tchncs.de). If you hate using
-both of those platforms then use the following:
-
-| Service | Username |
-|---|---|
-| Libera | amadaluzia |
-| XMPP | [amadaluzia@xmpp.earth](https://xmpp.link/#amadaluzia@xmpp.earth) |
-| Discord | [amadaluzia](https://discord.com/users/1208493560480010301) |
-| Revolt | amadaluzia#3242 |
-| Matrix (Alt) | [@amadaluzia:pub.solar](https://matrix.to/#/@amadaluzia:pub.solar) |
-| Email (Alt) | [amadaluzia@tutanota.com](mailto:amadaluzia@tutanota.com) |
-
-# Where do I host my code?
-
-- [GitLab: I use this for larger-purpose projects](https://gitlab.com/amadaluzia)
-- [SourceHut: Small-purpose projects](https://git.sr.ht/~amadaluzia)
-- [Codeberg: Older projects](https://codeberg.org/amadaluzia)
+[website]: https://amadaluzia.is-a.dev/
