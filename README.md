@@ -1,4 +1,4 @@
-# THIS IS NOT FOR PERSONAL PROJECTS, ONLY FOR CONTRIBUTIONS {#not-personal}
+# THIS IS NOT FOR PERSONAL PROJECTS, ONLY FOR CONTRIBUTIONS
 
 I do not trust GitHub as a good place for storing my *personal*
 projects, especially with GitHub Copilot's history of not respecting
