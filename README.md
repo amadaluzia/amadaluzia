@@ -12,4 +12,6 @@ I will still use GitHub, as I tend to use GHA for certain tasks, as well
 as I need it for collaborating with other projects anyway. This applies
 with every source sharing platform I am in.
 
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
+
 [website]: https://amadaluzia.is-a.dev/
